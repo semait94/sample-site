@@ -9,7 +9,7 @@ class Header extends React.Component{
 <Navbar inverse collapseOnSelect>
     <Navbar.Header>
       <Navbar.Brand>
-        <a href="/">Hello, friends</a>
+        <a href="/">Sammi Ber™</a>
       </Navbar.Brand>
       <Navbar.Toggle />
     </Navbar.Header>
